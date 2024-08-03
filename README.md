@@ -8,7 +8,7 @@ I'd love to connect on GitHub for collaborations or to share insights. Feel free
 
 Key Skills
 ------
-- Data Analysis (Python, R, SQLm Excel VBA)
+- Data Analysis (Python, R, SQL, and Excel VBA)
 - BI Tools (Power BI and Tableau)
 - Git and GitHub
 - Statistics and Machine Learning
