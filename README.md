@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Masa0817/Masa0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a Senior Data Analyst at EDF Energy in London, where I dive into large datasets and use data science techniques to tackle complex challenges. ⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'd love to connect on GitHub for collaborations or to share insights. Feel free to reach out!
+
+
+Key Skills
+------
+- Data Analysis (Python, R, SQLm Excel VBA)
+- BI Tools (Power BI and Tableau)
+- Git and GitHub
+- Statistics and Machine Learning
+- Spatial Analysis (QGIS)
