@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-
-I'm a Senior Data Analyst at EDF Energy in London, where I dive into large datasets and use data science techniques to tackle complex challenges. ⚡
-
 I'd love to connect on GitHub for collaborations or to share insights. Feel free to reach out!
 
 
