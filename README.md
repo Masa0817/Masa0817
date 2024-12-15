@@ -11,4 +11,6 @@ Key Skills
 - Statistics and Machine Learning
 - Spatial Analysis (QGIS)
    
-[![My Skills](https://skillicons.dev/icons?i=python,r,anaconda,markdown,mysql,notion,vscode,powershell,git,github )](https://skillicons.dev)
+
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=python,r,snowflake,postgresql,tableau,alteryx,qgis,awslambda,git,github,markdown,slack&theme=dark)
+
