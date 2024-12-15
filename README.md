@@ -10,3 +10,5 @@ Key Skills
 - Git and GitHub
 - Statistics and Machine Learning
 - Spatial Analysis (QGIS)
+   
+[![My Skills](https://skillicons.dev/icons?i=python,r,anaconda,markdown,mysql,notion,vscode,powershell,git,github )](https://skillicons.dev)
