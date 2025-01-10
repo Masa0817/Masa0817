@@ -12,5 +12,5 @@ Key Skills
 - Spatial Analysis (QGIS)
    
 
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=python,r,snowflake,postgresql,tableau,alteryx,qgis,git,github,markdown,slack&theme=dark)
+
 
